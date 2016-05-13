@@ -69,7 +69,13 @@ What is a red flag?
 - We have seen counts from 8,000 to 66,000 in a day by one user.
 
 
+## Next Steps
+This is a beta project to see if it would work in practice.
 
+Possible Future Changes-
+
+1. Invert the blockage. Use "allowed" countries instead of "banned" countries.
+2. Put a second level of authentication to use resources:  User/Pass and Student ID or Library Number.  With option to "Save" computer so only asked once on personal devices.
 
 
 
